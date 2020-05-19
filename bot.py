@@ -5,8 +5,8 @@ import os
 
 token = os.environ.get('TOKEN_BOT')
 serverid = 712034910394646638
-rainbowrolename = "Президент"
-delay = 0.01
+rainbowrolename  =  "Rainbow"
+задержка  =  0,01
 
 
 client = discord.Client()
