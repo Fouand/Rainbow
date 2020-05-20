@@ -5,7 +5,7 @@ import os
 
 token = os.environ.get('TOKEN_BOT')
 serverid = 712034910394646638
-rainbowrolename  =  "Rainbow"
+rainbowrolename  =  "Президент"
 задержка  =  0,01
 
 
